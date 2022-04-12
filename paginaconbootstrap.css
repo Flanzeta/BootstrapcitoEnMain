@@ -1,0 +1,12 @@
+body{
+    background-color: orangered;
+}
+
+a{
+    color: orangered;
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+}
+
+a:hover{
+    background-color: orange;
+}
